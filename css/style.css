@@ -585,6 +585,13 @@ p { margin: 0 0 1rem; }
   color: var(--green-800);
   font-size: 1.4rem;
 }
+.farm-card .nutrition-image {
+  width: 100%;
+  height: 180px;
+  margin: 0 0 1rem;
+  border-radius: 14px;
+  object-fit: cover;
+}
 
 .product-detail-card {
   display: flex;
